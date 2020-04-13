@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c87ac96-c4ce-4922-a7dd-48e278f72131" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\develop\java_maven_repository\maven_repository" />
+        <option name="mavenHome" value="F:/develop/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\develop\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1Yxgm3RLGvUPnCY8hm3fwbgDaCM" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../soul" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.IPO">
+    <configuration name="IPO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="believe.greedy.IPO" />
+      <module name="leftGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="believe.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="copyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="believe.copyList" />
+      <module name="leftGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="believe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="goldBars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="believe.goldBars" />
+      <module name="leftGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="believe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isCircleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="believe.isCircleList" />
+      <module name="leftGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="believe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trieTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="believe.trieTree" />
+      <module name="leftGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="believe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.copyList" />
+      <item itemvalue="Application.isCircleList" />
+      <item itemvalue="Application.trieTree" />
+      <item itemvalue="Application.goldBars" />
+      <item itemvalue="Application.IPO" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IPO" />
+        <item itemvalue="Application.goldBars" />
+        <item itemvalue="Application.copyList" />
+        <item itemvalue="Application.trieTree" />
+        <item itemvalue="Application.isCircleList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c87ac96-c4ce-4922-a7dd-48e278f72131" name="Default Changelist" comment="" />
+      <created>1583889816916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583889816916</updated>
+      <workItem from="1583889826198" duration="5628000" />
+      <workItem from="1583974106489" duration="5922000" />
+      <workItem from="1584168125374" duration="1431000" />
+      <workItem from="1584232675352" duration="3140000" />
+      <workItem from="1584318608716" duration="10416000" />
+      <workItem from="1584404674971" duration="1282000" />
+      <workItem from="1585449998207" duration="2167000" />
+      <workItem from="1585640799546" duration="11807000" />
+      <workItem from="1585708352275" duration="4716000" />
+      <workItem from="1585816475918" duration="6390000" />
+      <workItem from="1585874593696" duration="5944000" />
+      <workItem from="1586048142417" duration="9879000" />
+      <workItem from="1586138184488" duration="1840000" />
+      <workItem from="1586219410781" duration="8486000" />
+      <workItem from="1586315099866" duration="10288000" />
+      <workItem from="1586392566155" duration="4933000" />
+      <workItem from="1586485800341" duration="14864000" />
+      <workItem from="1586566313561" duration="212000" />
+      <workItem from="1586566832210" duration="13205000" />
+      <workItem from="1586600967756" duration="5063000" />
+      <workItem from="1586651028137" duration="10883000" />
+      <workItem from="1586736698442" duration="8135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1583975149303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583975149303" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585450403006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585450403006" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1586777149114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586777149114" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1586487333399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586487333399" />
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1586768431030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586768431030" />
+    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1586768431029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586768431029" />
+    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1586768431029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586768431029" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1586768431030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586768431030" />
+    <state width="1493" height="130" key="GridCell.Tab.1.bottom" timestamp="1586588421532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586588421532" />
+    <state width="1493" height="130" key="GridCell.Tab.1.center" timestamp="1586588421532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586588421532" />
+    <state width="1493" height="130" key="GridCell.Tab.1.left" timestamp="1586588421532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586588421532" />
+    <state width="1493" height="130" key="GridCell.Tab.1.right" timestamp="1586588421532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586588421532" />
+    <state x="272" y="57" width="1181" height="709" key="SettingsEditor" timestamp="1584319278507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" width="1181" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584319278507" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586736702572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586736702572" />
+    <state x="178" y="57" key="new project wizard" timestamp="1586396416354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="57" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586396416354" />
+    <state x="361" y="74" key="scopes" timestamp="1586052966780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1586052966780" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586528503297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586528503297" />
+  </component>
+</project>
