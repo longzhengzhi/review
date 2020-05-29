@@ -1,6 +1,6 @@
 package offer;
 
-public class num12 {
+public class $num12 {
 
 
 
@@ -29,7 +29,7 @@ public class num12 {
                 dfs(board, word, i, j + 1, k + 1) || dfs(board, word, i , j - 1, k + 1);
         board[i][j] = tmp;
         return res;
-        
+
     }
 
 }

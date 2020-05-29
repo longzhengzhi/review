@@ -2,7 +2,7 @@ package offer;
 
 import java.util.HashMap;
 
-public class num10 {
+public class $num10_1 {
 
     public static void main(String[] args) {
         int fib = fib(2);
